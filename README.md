@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/askjeeves-tools/.github/main/assets/logo-readme.png" alt="Ask Jeeves mascot" width="120" />
 </p>
 
