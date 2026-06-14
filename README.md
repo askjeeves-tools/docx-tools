@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/askjeeves-tools/.github/main/assets/logo-readme.png" alt="Ask Jeeves mascot" width="120" />
+</p>
+
 # Word Converter
 
 Convert DOCX files in your browser. Nothing leaves your device.
