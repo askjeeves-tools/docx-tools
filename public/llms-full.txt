@@ -1,0 +1,58 @@
+# Free Secure Word Converter — Ask Jeeves
+
+> Free, secure Word converter. Convert DOCX to HTML, plain text, or PDF in your browser. Files never leave your device—no upload, no account required.
+
+## Tool
+
+- [Free Secure Word Converter](https://docx.askjeeves.cc/): Convert DOCX to HTML, plain text, or PDF in your browser
+
+## Supported conversions
+
+- DOCX → HTML
+- DOCX → plain text
+- Word → PDF (basic)
+
+## FAQ
+
+- Is this Word converter free? Yes. Every conversion is free with no account, watermark, or usage limit.
+- Is this DOCX converter secure? Yes. Files are processed locally in your browser. Nothing is uploaded to a server, so your documents stay on your device.
+- What formats can I convert DOCX to? You can convert DOCX to HTML, plain text, or PDF. Choose the output format after uploading your Word file.
+- How accurate is Word to PDF conversion? The PDF output is a basic snapshot of the document content rendered in your browser. Complex Word layouts, headers, footers, and precise formatting may not match Microsoft Word exactly.
+- Does the converter work on mobile? Yes. It runs in modern mobile browsers that support HTML5 and JavaScript. Very large files may be slower on mobile devices.
+- What is the maximum file size? Each file can be up to about 50 MB. If a file is too large, you will see a clear error message asking you to use a smaller file.
+- Why did my conversion fail? Common causes are a non-DOCX file, corrupted document data, or exceeding the size limit. Check the message below the converter for specific guidance, then try again or refresh the page.
+
+## Extended context
+
+- [Full site context](https://docx.askjeeves.cc/llms-full.txt): how-it-works, security, and per-conversion details
+
+## More tools
+
+- [Ask Jeeves](https://askjeeves.cc): Free file conversion tools (PDF, images, CSV/JSON/Excel, Word)
+
+## How it works
+
+1. Upload a DOCX file using the drop zone or file picker.
+2. Choose an output format: HTML, plain text, or PDF.
+3. Click Convert, then download your result. Nothing is uploaded to a server.
+
+## Secure and private
+
+Your files are processed locally in your browser. Nothing is stored on a server and nothing is uploaded over the network. That makes this tool a good fit for contracts, reports, and other sensitive documents you do not want to send to a third-party service.
+
+## Conversion details
+
+- **DOCX → HTML** — Convert DOCX to HTML for web publishing, CMS import, or preview in a browser.
+- **DOCX → plain text** — Extract plain text from a Word document for search, analysis, or paste into other apps.
+- **Word → PDF (basic)** — Turn a Word document into a basic PDF snapshot of the content. Layout may differ from the original Word file.
+
+## Keywords
+
+docx converter, word converter, free docx converter, secure word converter, docx to html, docx to pdf, docx to text, browser word converter, convert word to pdf
+
+## Site metadata
+
+- Canonical URL: https://docx.askjeeves.cc/
+- Site name: Free Secure Word Converter — Ask Jeeves
+- Sitemap: https://docx.askjeeves.cc/sitemap-index.xml
+- Organization: [Ask Jeeves](https://askjeeves.cc)
